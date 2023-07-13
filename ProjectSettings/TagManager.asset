@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - TutorialRequirement
+  - bullet
+  - map
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Background
+  - Ground
+  - Player
+  - Zombies
+  - Collectables
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: FarBackground
+    uniqueID: 1867948959
+    locked: 0
+  - name: Background
+    uniqueID: 3133151271
+    locked: 0
+  - name: Back Hand
+    uniqueID: 2550205893
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Foreground
+    uniqueID: 4098458877
+    locked: 0
+  - name: CloseForeground
+    uniqueID: 3459740607
+    locked: 0
+  - name: UI
+    uniqueID: 3704171285
+    locked: 0
