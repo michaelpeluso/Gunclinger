@@ -1,0 +1,3007 @@
+fileFormatVersion: 2
+guid: 07bfdc6e60b25ac419a4369a8ab5a30b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: new items HC2_0
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 481
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5778d94b3fc2d29489ab33756262614e
+      internalID: 2115108924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new items HC2_1
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 507
+        width: 19
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22969b60cf4d7914489ca3ad04ad6694
+      internalID: 18403778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new items HC2_2
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 502
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f30e28a0e1b2cf4b822c8b6c7604b1a
+      internalID: 1165170876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new items HC2_3
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 502
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf3b18a3b51ca248aaccdc0451dd20a
+      internalID: 1175769302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new items HC2_4
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 481
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12290c19ad77e0a45af5e6176b1a5787
+      internalID: -660958624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new items HC2_5
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 481
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb8a5ede96e9efa4fb70af1eff5f4919
+      internalID: -261028298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new items HC2_6
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 481
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d28299a4fcee2a4bb3148fddfc52cab
+      internalID: 1685213574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new items HC2_7
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 481
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba2a8b20fa4e3854b929fdb4a1dd7b5b
+      internalID: 994721221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new items HC2_8
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 481
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40d383f75f9fba64d8ecda0b1da47d4d
+      internalID: 1833639441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new items HC2_9
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 481
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60668e4ebe2c14d4097eeaa32b568e0f
+      internalID: -87998577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new items HC2_10
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 493
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae2ab23640ba2f946b12a1809ff4ffcb
+      internalID: 1280687297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new items HC2_11
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 481
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c104e6c3e220e94f83120520180ec2a
+      internalID: 339516475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new items HC2_12
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 483
+        width: 5
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 552a9e703e4f1184ab6ec5c52b2958ca
+      internalID: -300888894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new items HC2_13
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 481
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe297552bbce9584ba97a1b2e703bac3
+      internalID: -432345207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new items HC2_14
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 481
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ac83afe6ce9314ebda041f8f16ff48
+      internalID: -1203073970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new items HC2_15
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 481
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f89a5d8f9d0e0ee45ab2ed54cbc7071b
+      internalID: 885954743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new items HC2_16
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 449
+        width: 23
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c552aec735a01a40812101d210cf615
+      internalID: 145224421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new items HC2_17
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 481
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48325fdddf7dcd74ba1c1f16ba169116
+      internalID: 280570029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new items HC2_18
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 484
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04a115aefdc053f40b45312c96f963e9
+      internalID: 1958700590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new items HC2_19
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 481
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a043a52e0298c4d42ad907d1079091bc
+      internalID: 1509397192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new items HC2_20
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 474
+        width: 19
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad994076263c574bb6dddfe5e390cbb
+      internalID: 1687962672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new items HC2_21
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 467
+        width: 19
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a3e79fd9741a3a43bb36d80a30624b1
+      internalID: -1067032056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new items HC2_22
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 449
+        width: 45
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb4594c9775cc048976d46e0bd91223
+      internalID: 1966409814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new items HC2_23
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 449
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f59d5f03e306590449053b9a1b605fb6
+      internalID: 1686820552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new items HC2_24
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 449
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae1cbd63a6c2dba43aa9910371806cce
+      internalID: 2101455704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new items HC2_25
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 449
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69e5dafbf51bc9f47838e112d6d34da7
+      internalID: 1233415983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new items HC2_26
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 455
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4d60ad716ba62d48afccadfea60e83f
+      internalID: -882635922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new items HC2_27
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 449
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd39ed0de99932b4f9639d6428f81932
+      internalID: 309465491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new items HC2_28
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 455
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bfe75839f7b84d45a56e80f270f4c0e
+      internalID: 984757137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new items HC2_29
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 449
+        width: 36
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b13df2dcb218444d9d5129497e3a870
+      internalID: -160059508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new items HC2_30
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 459
+        width: 32
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b2b3c7f5872b148ae9b09b623ae56f
+      internalID: 677844609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new items HC2_31
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 449
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d2897f4691b0ff4ca3a1c6d5bfaa0fe
+      internalID: 694580431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new items HC2_32
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 449
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4c5b40eeb925254785322c34f27d49b
+      internalID: -683483642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new items HC2_33
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 450
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d25072245924b7428e302be3c59b87d
+      internalID: -929171139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new items HC2_34
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 449
+        width: 23
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 113efb40c257a234e841b7ddcb8e9046
+      internalID: 551204907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new items HC2_35
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 450
+        width: 20
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe1001499e1cb743b55640e9c3f1c18
+      internalID: -542430861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new items HC2_36
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 416
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa869494f6c4ae43a25c14c38246d41
+      internalID: 1728564304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new items HC2_37
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 449
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e0935f2ddd2f8244958e1c81934fb1c
+      internalID: -934497732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new items HC2_38
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 442
+        width: 26
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38123c184a55f4141a58ea7c5f02b69e
+      internalID: 242912315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new items HC2_39
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 434
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 582c437d1e6cd7643973d2444b52267a
+      internalID: 1065606947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new items HC2_40
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 416
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b8a82548f27fd84e984496054ccf149
+      internalID: 1218258747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new items HC2_41
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 416
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f79fbdc6d6a2e4b91ae155183763cf
+      internalID: 47553594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new items HC2_42
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 416
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20b627667e8642349bc5e988b2dc1245
+      internalID: 446063691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new items HC2_43
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 416
+        width: 71
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ea02022e5487d47b00079613702e4b
+      internalID: 992815288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new items HC2_44
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 383
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d25b2b6b6b2a343b3de47952d1e6c6
+      internalID: 1244283018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new items HC2_45
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 399
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d25f547687ff99145a9dac67f1065ae8
+      internalID: 970503399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new items HC2_46
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 420
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9a301faead9dc45968acec1cbc5228
+      internalID: 706319913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new items HC2_47
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 416
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b47a014a85bbde94a9eae9e748d22f2d
+      internalID: 290696569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new items HC2_48
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 422
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd70da3d3f68f642864652035f44f33
+      internalID: 611310797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new items HC2_49
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 416
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b9a9376793dae143ad8764d12b088cc
+      internalID: -1992933140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new items HC2_50
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 422
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b746dec79a81b4ea38082f322067f8
+      internalID: -948089721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new items HC2_51
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 416
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30060d2a23341ca439171dc53078fd8b
+      internalID: -351647847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new items HC2_52
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 416
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ade815d9e8cd0dc4b928d72dd65c11b6
+      internalID: -1316665626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new items HC2_53
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 399
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08ea07379024eba44a4de3a51b9139a8
+      internalID: 1818796972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new items HC2_54
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 399
+        width: 38
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fab307a92d858a488031eb0957f70bd
+      internalID: 1672660201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new items HC2_55
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 383
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e3f318939ae7f4ab7e62ebcec4d31d
+      internalID: 1396254550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new items HC2_56
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 383
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe6e7989746ada14ea3af9468ee84715
+      internalID: -1354237158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new items HC2_57
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 383
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de7bf659727160429151cf17a5ad2a2
+      internalID: 454314163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new items HC2_58
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 366
+        width: 33
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba7f6618dce672e48b71c6acb18e8fa4
+      internalID: -1612877887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new items HC2_59
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 350
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e1e0267a778f7044a4826d076fcfe71
+      internalID: 188711277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new items HC2_60
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 368
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b2822f748838a4a870d75d06751e2a
+      internalID: 1615620909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new items HC2_61
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 350
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d101ac3772db8504dbb159a45004a3f0
+      internalID: -1429673158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new items HC2_62
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 350
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 279952c2a17c6b0468881bfef83d93c0
+      internalID: -1469233775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new items HC2_63
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 350
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af424f8ae73fc5a42bec1f056d2b095d
+      internalID: 205292992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new items HC2_64
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 366
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d132718bd69e214fbfa146d9bc6a592
+      internalID: -1174139255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new items HC2_65
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 366
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb1ca7bfff5a6bd45bdcaa10d2d3e110
+      internalID: 2106724252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new items HC2_66
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 350
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8fe6ff1b787d8b498a7836f39cfc06a
+      internalID: -793347814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new items HC2_67
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 350
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dffe656f76ae9b4abd1128480265e5e
+      internalID: -1394721373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new items HC2_68
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 350
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8100cc7b671e6b74389e4a80a5ebcc70
+      internalID: 1757431851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new items HC2_69
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 336
+        width: 50
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3260cd9c31b0c5a4fadbba405198bde3
+      internalID: 1600228730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new items HC2_70
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 317
+        width: 50
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63fb0570a72f13045ab1bbfa3f1e24d9
+      internalID: -232061842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new items HC2_71
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 330
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f85d33e44ea2b65468eb756bc3a142a3
+      internalID: 534307941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new items HC2_72
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 333
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0e7d9cd2b17d0749bd5577a93d8a9ef
+      internalID: 699397004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new items HC2_73
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 335
+        width: 47
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7603656d7a3856b4e8413e0457c3a5ec
+      internalID: -1019598577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new items HC2_74
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 300
+        width: 12
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1700723d7d0d9b459cdd990047808e9
+      internalID: -94031902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new items HC2_75
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 300
+        width: 4
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cee4bfdf37d75a4da496a2ec8d438b2
+      internalID: -1299792182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new items HC2_76
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 300
+        width: 5
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7352666248aa5224e88b6df1561325b9
+      internalID: 2019777228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new items HC2_77
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 317
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f92ab6e9b6cf3d94b9c233f6c77740d6
+      internalID: 929448923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new items HC2_78
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 317
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66cf375cf96c2c84981c1b7606e976ed
+      internalID: -1740561660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new items HC2_79
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 322
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 481cf5836e032744f8e98d5bf66516bb
+      internalID: -1825220722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new items HC2_80
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 322
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e8e54a7e38bcd6449e031ea569514e5
+      internalID: 997998398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new items HC2_81
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 322
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb96e66c78914cf4bb4549c8ed54ac57
+      internalID: -1291827136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new items HC2_82
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 322
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 742158ebaedf0d54887330df06d0a424
+      internalID: 635548241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new items HC2_83
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 321
+        width: 48
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 573ee000af51ae34cb3af405f1eee156
+      internalID: 938294280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new items HC2_84
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 319
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a45001f28ee2940a87b33312810483
+      internalID: 310014285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new items HC2_85
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 321
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0acfce3197b0f8d45b9e2a4a05a0f135
+      internalID: 546320032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new items HC2_86
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 320
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7aa866f3852cae44a6c6f6d3fcc2dc0
+      internalID: 17438728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new items HC2_87
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 317
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92e3aca9a6e8018449befcaf40f9c8ce
+      internalID: -2013307841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new items HC2_88
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 317
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2d2ec4464e6ad1408500bac77e7100b
+      internalID: -961742349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new items HC2_89
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 317
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b1d703b741c65f48b0fad0f8e5be681
+      internalID: 1635687157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new items HC2_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a37800acd494ccd499ae3734a0d9e706
+      internalID: 1612540840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new items HC2_91
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 304
+        width: 52
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f77363b6a6a5a4d49877f26799da9de1
+      internalID: -587178811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new items HC2_92
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 288
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 299b71ea0fabba948bc91a699d1247f1
+      internalID: 733471419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new items HC2_93
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 251
+        width: 17
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 555ebd0918c6fc04eaba23df7f22b3fa
+      internalID: 299518801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new items HC2_94
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 251
+        width: 6
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7567595fe6d8e2442bb0914df0d76905
+      internalID: -443621928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new items HC2_95
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 251
+        width: 7
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 231c0e2720be52d4ca87516e16cd8a59
+      internalID: 1443309589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new items HC2_96
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 300
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 398b457eb5a7f7f47a22e1d67dca6f60
+      internalID: -1186286072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new items HC2_97
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 300
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b78286d31451f14796dcfe45648ca61
+      internalID: -796086238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new items HC2_98
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 300
+        width: 45
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 627ce5e19d5899847aea9a2496aa3432
+      internalID: -207776107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new items HC2_99
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 290
+        width: 44
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e2f9ae4c74179e4bb35c7b3b9b8555f
+      internalID: 1916120584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new items HC2_100
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 287
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ed99593b29f4d47985593653fe5352
+      internalID: 1577405184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new items HC2_101
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 302
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7446561dd1b16a547b7a60d89d23a5aa
+      internalID: 1763042812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new items HC2_102
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 286
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 215970deaca444847bbace2865c560e0
+      internalID: 603773949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new items HC2_103
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 302
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebde8d9b9d0c88c4583f57419a402277
+      internalID: 1004977751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new items HC2_104
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 287
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11a014c43aa3fa64b83fd9c42832e9c0
+      internalID: -1805320565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new items HC2_105
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 279
+        width: 18
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f15a99f7b9dcc474db741c573af424af
+      internalID: -1158928526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new items HC2_106
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 202
+        width: 80
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 677971b556a6f6746b2ff84b699aa233
+      internalID: -1749566525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new items HC2_107
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 274
+        width: 21
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fd71e2f6e1443a4c946858750940b60
+      internalID: -1870628460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new items HC2_108
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 251
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e78a2c92554cf6f41aed934190188c08
+      internalID: -696191177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new items HC2_109
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 251
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27f1edf865f92a3478404e792b82b8e9
+      internalID: -466369955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new items HC2_110
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 251
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad8537906c66050479876cb337073afe
+      internalID: 168934596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new items HC2_111
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 234
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6f595163d4f85a409627ff5da3ef49a
+      internalID: -1695275199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new items HC2_112
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 234
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dbec16324e634f438d04ddf96b29c79
+      internalID: 697105404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new items HC2_113
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 234
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ad03cdc7c8bab41841094847790d9e
+      internalID: 958062130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new items HC2_114
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 234
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 052de53c563348547bb5e4039a08d67f
+      internalID: -618353497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new items HC2_115
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 234
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d394fb7b95a19d64292338a9ea84225f
+      internalID: 1861645188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new items HC2_116
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 202
+        width: 63
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 015b93aee1a8c4442a18899e7d9c3609
+      internalID: -125203949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new items HC2_117
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 234
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb5c98ffa9f10f478bbcff33622758f
+      internalID: 626804720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new items HC2_118
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 234
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38148032ae1e0d64cadc945ca087a5c5
+      internalID: 441398795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new items HC2_119
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 234
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 199bd064b13bbe94799e945f57af3175
+      internalID: 538844976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new items HC2_120
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 234
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c52d6a0ba3ba82d42856578cf48cdf71
+      internalID: -1644407517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new items HC2_121
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 234
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4243ba1030001aa4a99bbf30070b8da6
+      internalID: 237696717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new items HC2_122
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 202
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 195142d56e498dc41b7a113f25ef2d3a
+      internalID: -599842780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new items HC2_123
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 202
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07496313d6e491a449c80fd9669b350d
+      internalID: 1598521263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new items HC2_124
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 202
+        width: 30
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddfe4779892685e4ca978b370063987d
+      internalID: -2039152371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new items HC2_125
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 202
+        width: 47
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6dc4f082f839df49880a70edce182f5
+      internalID: -76039811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new items HC2_126
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 202
+        width: 50
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd92ce15cd741ad4e8c5b7d90fdbd2b5
+      internalID: 1120882713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new items HC2_127
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 421
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d21f85ff824414f4cb57f4d13a74b9ed
+      internalID: 672225086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new items HC2_128
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 413
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6d545c5747605d40aa5c04bae41acaf
+      internalID: -950232908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new items HC2_129
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 405
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe6cba8d7eb52374b85ac2d8c62a7f1f
+      internalID: 1345418783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      new items HC2_10: 1280687297
+      new items HC2_121: 237696717
+      new items HC2_40: 1218258747
+      new items HC2_101: 1763042812
+      new items HC2_42: 446063691
+      new items HC2_28: 984757137
+      new items HC2_55: 1396254550
+      new items HC2_112: 697105404
+      new items HC2_88: -961742349
+      new items HC2_45: 970503399
+      new items HC2_29: -160059508
+      new items HC2_126: 1120882713
+      new items HC2_15: 885954743
+      new items HC2_35: -542430861
+      new items HC2_91: -587178811
+      new items HC2_47: 290696569
+      new items HC2_30: 677844609
+      new items HC2_49: -1992933140
+      new items HC2_2: 1165170876
+      new items HC2_115: 1861645188
+      new items HC2_65: 2106724252
+      new items HC2_37: -934497732
+      new items HC2_106: -1749566525
+      new items HC2_63: 205292992
+      new items HC2_72: 699397004
+      new items HC2_73: -1019598577
+      new items HC2_5: -261028298
+      new items HC2_9: -87998577
+      new items HC2_3: 1175769302
+      new items HC2_119: 538844976
+      new items HC2_124: -2039152371
+      new items HC2_84: 310014285
+      new items HC2_89: 1635687157
+      new items HC2_56: -1354237158
+      new items HC2_78: -1740561660
+      new items HC2_58: -1612877887
+      new items HC2_93: 299518801
+      new items HC2_110: 168934596
+      new items HC2_31: 694580431
+      new items HC2_60: 1615620909
+      new items HC2_39: 1065606947
+      new items HC2_62: -1469233775
+      new items HC2_14: -1203073970
+      new items HC2_11: 339516475
+      new items HC2_87: -2013307841
+      new items HC2_99: 1916120584
+      new items HC2_116: -125203949
+      new items HC2_23: 1686820552
+      new items HC2_46: 706319913
+      new items HC2_66: -793347814
+      new items HC2_67: -1394721373
+      new items HC2_61: -1429673158
+      new items HC2_64: -1174139255
+      new items HC2_85: 546320032
+      new items HC2_17: 280570029
+      new items HC2_20: 1687962672
+      new items HC2_24: 2101455704
+      new items HC2_122: -599842780
+      new items HC2_69: 1600228730
+      new items HC2_97: -796086238
+      new items HC2_94: -443621928
+      new items HC2_34: 551204907
+      new items HC2_96: -1186286072
+      new items HC2_71: 534307941
+      new items HC2_80: 997998398
+      new items HC2_33: -929171139
+      new items HC2_26: -882635922
+      new items HC2_118: 441398795
+      new items HC2_0: 2115108924
+      new items HC2_74: -94031902
+      new items HC2_22: 1966409814
+      new items HC2_86: 17438728
+      new items HC2_105: -1158928526
+      new items HC2_117: 626804720
+      new items HC2_103: 1004977751
+      new items HC2_6: 1685213574
+      new items HC2_8: 1833639441
+      new items HC2_1: 18403778
+      new items HC2_59: 188711277
+      new items HC2_43: 992815288
+      new items HC2_4: -660958624
+      new items HC2_82: 635548241
+      new items HC2_57: 454314163
+      new items HC2_92: 733471419
+      new items HC2_32: -683483642
+      new items HC2_13: -432345207
+      new items HC2_7: 994721221
+      new items HC2_70: -232061842
+      new items HC2_75: -1299792182
+      new items HC2_125: -76039811
+      new items HC2_25: 1233415983
+      new items HC2_76: 2019777228
+      new items HC2_52: -1316665626
+      new items HC2_53: 1818796972
+      new items HC2_108: -696191177
+      new items HC2_18: 1958700590
+      new items HC2_129: 1345418783
+      new items HC2_100: 1577405184
+      new items HC2_107: -1870628460
+      new items HC2_123: 1598521263
+      new items HC2_27: 309465491
+      new items HC2_109: -466369955
+      new items HC2_51: -351647847
+      new items HC2_127: 672225086
+      new items HC2_98: -207776107
+      new items HC2_36: 1728564304
+      new items HC2_19: 1509397192
+      new items HC2_48: 611310797
+      new items HC2_120: -1644407517
+      new items HC2_68: 1757431851
+      new items HC2_104: -1805320565
+      new items HC2_90: 1612540840
+      new items HC2_79: -1825220722
+      new items HC2_38: 242912315
+      new items HC2_81: -1291827136
+      new items HC2_111: -1695275199
+      new items HC2_77: 929448923
+      new items HC2_95: 1443309589
+      new items HC2_54: 1672660201
+      new items HC2_113: 958062130
+      new items HC2_128: -950232908
+      new items HC2_50: -948089721
+      new items HC2_102: 603773949
+      new items HC2_114: -618353497
+      new items HC2_41: 47553594
+      new items HC2_44: 1244283018
+      new items HC2_21: -1067032056
+      new items HC2_83: 938294280
+      new items HC2_12: -300888894
+      new items HC2_16: 145224421
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
