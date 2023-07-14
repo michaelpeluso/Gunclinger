@@ -30,6 +30,6 @@ public class PlayValuesManager : MonoBehaviour
     }
 
     public void PlayGame() {
-        sceneLoader.LoadNextScene(0);
+        sceneLoader.LoadNextScene(1);
     }
 }

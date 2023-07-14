@@ -5,13 +5,22 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: c9f0cd8f95e7055458cc9dd46126556f
   - enabled: 1
     path: Assets/Scenes/Outside.unity
-    guid: a56fc4fc1b0cc374eaae42203d03c2ea
+    guid: fdf1a3d764516ed42a9d814befbc1f2d
   - enabled: 1
     path: Assets/Scenes/Shed.unity
     guid: 854b13f09d046fd47b22a80c6e16a4f4
   - enabled: 1
     path: Assets/Scenes/LogCabin.unity
     guid: 35cd3da56c99c984eb136fb890081a43
+  - enabled: 1
+    path: Assets/Scenes/You Died.unity
+    guid: 49fca20c77aeba84b9ac94726753d5e7
   m_configObjects: {}

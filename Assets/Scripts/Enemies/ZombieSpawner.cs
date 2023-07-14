@@ -21,10 +21,9 @@ public class ZombieSpawner : MonoBehaviour
 
     private void OnApplicationStart() 
     {
-        PlayerPrefs.SetInt("wave", PlayerPrefs.GetInt("startingWave", 0));
+        PlayerPrefs.SetInt("wave", 0);
         PlayerPrefs.SetInt("zombiesAlive", 0);
         PlayerPrefs.SetInt("zombiesLeft", 0);
-        BeginWave(PlayerPrefs.GetInt("difficulty", 0), difficulty);
         scoreMultiplyer = 1f;
     }
 
@@ -38,6 +37,10 @@ public class ZombieSpawner : MonoBehaviour
 
     private void Start() {
         enemyParent = GameObject.Find("Enemies");
+        difficulty = PlayerPrefs.GetInt("difficulty");
+        wave = PlayerPrefs.GetInt("startingWave");
+        PlayerPrefs.SetInt("wave", wave);
+        BeginWave(PlayerPrefs.GetInt("startingWave"), difficulty);
     }
 
     void Update()
@@ -54,7 +57,7 @@ public class ZombieSpawner : MonoBehaviour
     }
 
     void BeginWave(int wv, int dif) {
-        timeBetweenSpawns = 3.0f / (float)dif;
+        timeBetweenSpawns = ( 10f / Mathf.Sqrt(wv) ) / (float)dif;
         zombiesLeft = wv * dif * 5;
         InvokeRepeating("SpawnZombie", 0.0f, timeBetweenSpawns);
         PlayerPrefs.SetInt("wave", wv);

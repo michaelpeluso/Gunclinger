@@ -25,7 +25,9 @@ public class SceneLoader : MonoBehaviour
 
     public void LoadNextScene(int index) {
         newSceneIndex = index;
-        animator.SetTrigger("NewScene");
+        if (animator) {
+            animator.SetTrigger("NewScene");
+        }
 
         if (zombieSpawner) {
             int temp = zombieSpawner.zombiesLeft + zombieSpawner.zombiesAlive;

@@ -26,6 +26,7 @@ public class PlayerControllerPublic : MonoBehaviour
     {
         CheckDoubles();
         UpdateInv();
+        if (playerHealth != maxHealth) { playerHealth = maxHealth; }
     }
 
     public void TakeDamage(float damage) 

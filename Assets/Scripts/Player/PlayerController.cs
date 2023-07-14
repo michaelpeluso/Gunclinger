@@ -70,6 +70,7 @@ namespace Platformer.Mechanics
         [Space(15)]
         public GameObject[] inv = new GameObject[3];
         public int currEqupt;
+        public SceneLoader sceneLoader;
 
         /* CUSTOM VARIABLES */
        
@@ -91,6 +92,13 @@ namespace Platformer.Mechanics
             maxEnergy = playerEnergy;
             pcpScript.energyRegenStep = energyRegenStep;
             pcpScript.healthRegenDelay = healthRegenDelay;
+        }
+
+        void Start() {
+            maxHealth /= PlayerPrefs.GetInt("difficulty");
+            pcpScript.maxHealth = maxHealth;
+            PlayerPrefs.SetFloat("maxHealth", maxHealth);
+            if (playerHealth != maxHealth) { playerHealth = maxHealth; }
         }
 
         protected override void Update()
@@ -122,6 +130,7 @@ namespace Platformer.Mechanics
             FlipSprite();
             updateEquipt();
             SetPublicVariables();
+            CheckForDeath();
         }
 
         void SetPublicVariables() {
@@ -326,6 +335,12 @@ namespace Platformer.Mechanics
             
             if (pcpScript.healthRegenDelay != healthRegenDelay) {
                 healthRegenDelay = pcpScript.healthRegenDelay;
+            }
+        }
+    
+        public void CheckForDeath() {
+            if (playerHealth <= 0) {
+                sceneLoader.LoadNextScene(4);
             }
         }
     }

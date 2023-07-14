@@ -31,7 +31,7 @@ public class HealthBarManager : MonoBehaviour
         sr.color = new Color(sr.color.r, sr.color.g, sr.color.b, 1f);
         
         float time = 0;
-        if (ph == 100) {
+        if (ph == PlayerPrefs.GetFloat("maxHealth")) {
             yield return null;    
         }
         else {
