@@ -21,10 +21,10 @@ public class ZombieSpawner : MonoBehaviour
 
     private void OnApplicationStart() 
     {
-        PlayerPrefs.SetInt("wave", 0);
+        PlayerPrefs.SetInt("wave", PlayerPrefs.GetInt("startingWave", 0));
         PlayerPrefs.SetInt("zombiesAlive", 0);
         PlayerPrefs.SetInt("zombiesLeft", 0);
-        BeginWave(0, difficulty);
+        BeginWave(PlayerPrefs.GetInt("difficulty", 0), difficulty);
         scoreMultiplyer = 1f;
     }
 
