@@ -178,8 +178,6 @@ MonoBehaviour:
   - {fileID: 7024962148977192734, guid: 6ebbc0c57ad0a914aa09460710690d7b, type: 3}
   - {fileID: 6794385854816513839, guid: 4f7c51f378326db409eeca2c08a9b65b, type: 3}
   - {fileID: 2293266015899882789, guid: 1c3a07a2b8f5702489a79729dd77fbab, type: 3}
-  deathAnimation: {fileID: 3817278884659042032, guid: ade869856007df74ea1a551ccfd98b29,
-    type: 3}
   moanClips:
   - {fileID: 8300000, guid: b75adcc3869b0c340a9a4e5e162a7383, type: 3}
   - {fileID: 8300000, guid: 740fcf3ec04cdcb4fb74595d69090533, type: 3}

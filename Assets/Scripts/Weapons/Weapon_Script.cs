@@ -12,7 +12,7 @@ public class Weapon_Script : MonoBehaviour
     [Space (15)]
     public WeaponType weaponType;
     public bool fullAuto;
-    [SerializeField] private int magCapacity;
+    public int magCapacity;
     public int magBulletsLeft;
     public int totalBulletsLeft;
     public int maxClips;

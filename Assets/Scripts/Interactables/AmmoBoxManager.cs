@@ -9,10 +9,10 @@ public class AmmoBoxManager : MonoBehaviour
     private bool fading = false;
     private bool open;
     private bool pressedE = false;
-    private bool purchasingWeapon = false;
+    private bool purchasingAmmo = false;
     public float weaponCollectTime;
 
-    private Coroutine purchasingWeaponCoroutine;
+    private Coroutine purchasingAmmoCoroutine;
 
     public AudioClip[] openClips;
     public AudioClip[] closeClips;
@@ -61,18 +61,14 @@ public class AmmoBoxManager : MonoBehaviour
             if (scoreManager.totalPoints >= price) {
                 OpenCrate();
                 
-                if (pressedE && !purchasingWeapon) {
-                    PurchaseWeapon();
+                if (pressedE && !purchasingAmmo) {
+                    PurchaseAmmo();
                     pressedE = false;
                 }
             }
             else {
                 CloseCrate();
             }
-        }
-        if (purchasingWeapon && pressedE) {
-            EquiptWeapon();
-            pressedE = false;
         }
     }
 
@@ -86,7 +82,7 @@ public class AmmoBoxManager : MonoBehaviour
     private void OpenCrate() 
     {
         if (!open) {
-            if (!fading && !purchasingWeapon) { StartCoroutine(FadeInText()); }
+            if (!fading && !purchasingAmmo) { StartCoroutine(FadeInText()); }
             transform.GetChild(0).GetComponent<Animator>().SetBool("Open", true);
             open = true;
             GetComponent<AudioSource>().PlayOneShot(openClips[(int)Random.Range(0, openClips.Length)]);
@@ -95,7 +91,7 @@ public class AmmoBoxManager : MonoBehaviour
 
     private void CloseCrate() 
     {
-        if (open && !purchasingWeapon) {
+        if (open && !purchasingAmmo) {
             transform.GetChild(0).GetComponent<Animator>().SetBool("Open", false);
             StartCoroutine(FadeOutText());
             open = false;
@@ -134,26 +130,26 @@ public class AmmoBoxManager : MonoBehaviour
             source.intensity = newIntensity;
         }
     }
-
-    private void EquiptWeapon() {
-        StopCoroutine(purchasingWeaponCoroutine);
-        CloseCrate();
-        purchasingWeapon = false;
-    }
     
-    private void PurchaseWeapon() {
+    private void PurchaseAmmo() {
+        PlayerControllerPublic pcp = Player.GetComponent<PlayerControllerPublic>();
+        GameObject currWeapon = pcp.inv[pcp.currEqupt];
+
+        Weapon_Script ws = currWeapon.GetComponent<Weapon_Script>();
+        ws.totalBulletsLeft = ws.maxClips * ws.magCapacity;
+
         scoreManager.IndicatePoints(-price);
         GetComponent<AudioSource>().PlayOneShot(buyClips[0]);
         GetComponent<AudioSource>().PlayOneShot(buyClips[1]);
-        purchasingWeaponCoroutine = StartCoroutine(PurchasingWeapon());
+        purchasingAmmoCoroutine = StartCoroutine(PurchasingAmmo());
         FadeOutText();
         PlayEffects(true);
     }
 
-    IEnumerator PurchasingWeapon()
+    IEnumerator PurchasingAmmo()
     {   
         float transition = 2f;
-        purchasingWeapon = true;
+        purchasingAmmo = true;
         float time = 0;
 
         StartCoroutine(FadeOutText());
@@ -164,7 +160,7 @@ public class AmmoBoxManager : MonoBehaviour
             yield return null;
         }
         
-        purchasingWeapon = false;
+        purchasingAmmo = false;
         fading = false;
         if (open) {
             CloseCrate();

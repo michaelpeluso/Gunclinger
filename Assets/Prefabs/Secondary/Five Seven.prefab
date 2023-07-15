@@ -53,10 +53,9 @@ MonoBehaviour:
   magCapacity: 20
   magBulletsLeft: 0
   totalBulletsLeft: 0
-  maxClips: 5
+  maxClips: 6
   fireRate: 4
   damage: 18
-  damageFallOff: 1
   bulletSpeed: 20
   reloadTime: 1.5
   recoil: 0.0015
